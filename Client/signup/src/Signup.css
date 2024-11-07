@@ -1,0 +1,39 @@
+form{
+    /* width: 15rem;
+    height: 10rem; */
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+#container{
+    margin-left: 35rem;
+}
+
+h3{
+    margin-bottom: 0;
+}
+p{
+    font-size: large;
+    margin-top: 0;
+}
+a{
+    font-size: small;
+    margin-bottom: 2px;
+}
+
+input{
+    border: none;
+    background-color: rgb(247, 240, 240);
+    height: 2rem;
+    padding-left: 1rem;
+    border-radius: .5rem;
+    margin-bottom: .5rem;
+}
+
+label{
+    text-align: left;
+
+}

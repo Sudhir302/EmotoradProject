@@ -1,0 +1,14 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body{
+  background-color: rgb(224, 221, 221);
+  background-image: url("/image/backgroundimg.jpg");
+  background-repeat: no-repeat;
+  background-size: 45% 100%;
+}
+
